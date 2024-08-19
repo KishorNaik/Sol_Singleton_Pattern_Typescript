@@ -14,5 +14,3 @@ docker logs my-node-app:latest
 docker run -it <image_name> /bin/bash
 # Inside the container
 npm run start
-
-
